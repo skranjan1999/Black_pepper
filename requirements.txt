@@ -1,4 +1,4 @@
 Flask==2.0.2
 Pillow==9.0.0
 tensorflow==2.8.4
-Werkzeug==2.3.7
+Werkzeug==2.2.2
